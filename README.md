@@ -9,6 +9,12 @@ Additional contextual information may include:
 # Real-world JavaScript interview questions submitted by interviewees.
 
 ***
+- ### Explain the difference between one equal sign(=), two equal signs(==), and three equal signs(===).
+  * Asked as part of in-person interview, on the spot.
+  * No additional resources could be used.
+  * Web Developer
+
+<sub><sup>_Submitted 18 December 2019 via GitHub by [jeradsdesign](https://github.com/jeradsdesign)._</sup></sub>
 
 - ### Write a function that takes a DOM element and smoothly animates it from its current position to distance pixels to the right over duration milliseconds. Implement the following function, `animate(el, milliseconds, distance)`
   * Asked as part of a phone screen interview for Facebook position
